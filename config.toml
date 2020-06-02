@@ -1,0 +1,69 @@
+baseURL = "http://apicv.es/"
+languageCode = "en-us"
+title = "APICV"
+
+
+theme = "prologue"
+
+[params]
+  name = "APICV"
+  description = "Página web de la APICV"
+  copyright = "@APICV"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "https://twitter.com/apicv"
+
+[[params.social]]
+  medium = "youtube"
+  icon = "youtube"
+  link = "https://www.youtube.com/channel/UCdtS1K-lMH9psoShIiYJYFg"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "https://github.com/apicv"
+
+[[params.social]]
+  medium = "telegram-plane"
+  icon = "telegram-plane"
+  link = "https://t.me/apicv"
+
+[[params.social]]
+  medium = "email"
+  icon = "envelope"
+  link = "mailto:presidente@apicv.es"
+
+# Portfolio column one
+
+[[params.portfolio1]]
+  title = "Un poco de historia"
+  alt = ""
+  height="200"
+  source = "img/historia.jpg"
+  url = "https://view.genial.ly/5e1db0229e64014072a0fcff/vertical-infographic-timeline-apicv"
+
+
+
+# Portfolio column two
+
+[[params.portfolio2]]
+  title = "Últimas noticias"
+  alt = ""
+  height="300"
+  source = "img/pic04.jpg"
+  url = "#"
+
+
+
+# Portfolio column 3
+
+[[params.portfolio3]]
+  title = "La APICV en Redes Sociales"
+  alt = ""
+  height="200"
+  source = "img/pic06.jpg"
+  url = "#"
+
+
