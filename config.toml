@@ -1,7 +1,7 @@
 baseURL = "http://apicv.es/"
 languageCode = "en-us"
 title = "APICV"
-
+publishdir = "docs"
 
 theme = "prologue"
 
